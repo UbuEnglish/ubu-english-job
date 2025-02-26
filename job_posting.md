@@ -11,7 +11,6 @@ We're seeking a skilled Python developer to enhance our markdown processing syst
 **Quick Facts**:
 
 - 🕒 Duration: 4-6 weeks
-- 💻 Workload estimate: 75+ hours
 - 📍 Remote: Yes
 - 🔧 Type: Contract
 - 🤖 Development: AI-assisted workflow
@@ -63,17 +62,23 @@ You can:
 
 ## Project Phases
 
-1. **v1.0 Completion** (Weeks 1-2)
-   - Fix remaining test cases
-   - Optimize current implementation
-   - Update documentation
+1. Version Completion (One of the following)
 
-2. **v2.0 Development** (Weeks 3-4)
-   - Implement enhanced features
-   - Develop test suite
-   - Maintain documentation
+   1. **v1.0 Completion** (Weeks 1-3)
+      - Fix remaining test cases
+      - Optimize current implementation
+      - Update documentation
 
-3. **Finalization** (Weeks 5-6)
+   2. **v2.0 Development** (Weeks 1-3)
+      - Implement features
+      - Develop test suite
+      - Maintain documentation
+
+   3. **Propose alternative approach** (Weeks 1-3)
+      - Explain reasons for new approach
+      - Estimate impact on development time and cost
+
+2. **Finalization** (Weeks 3-6)
    - Integration testing
    - Performance optimization
    - Documentation review
