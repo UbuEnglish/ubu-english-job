@@ -4,8 +4,8 @@
 
 **Title**: Senior Python Developer - Document Processing Pipeline
 
-**Project Scope**: 75-95 hours
 **Timeline**: 4-6 weeks
+
 **Development Approach**: Modern development practices with AI assistance
 
 ## Project Overview
@@ -15,7 +15,11 @@ Develop and enhance a Python-based markdown processing system that converts mark
 ## Key Responsibilities
 
 - Complete v1.0 implementation
+  or
 - Develop v2.0 with enhanced features and validation
+  or
+- Propose an alternative solution
+
 - Implement comprehensive test suite
 - Maintain high code quality and documentation
 - Collaborate with team using modern development practices
@@ -64,7 +68,9 @@ Develop and enhance a Python-based markdown processing system that converts mark
 ## Technical Approach and Decisions
 
 ### Established Approaches
+
 The project currently has two implementation approaches:
+
 1. **Single-Pass (v1.0)**:
    - State machine-based processing
    - Memory efficient
@@ -78,7 +84,9 @@ The project currently has two implementation approaches:
    - Under development
 
 ### Decision Making Scope
+
 The developer should decide on one of the following options:
+
 - Complete v1.0 implementation following current architecture
 - Evaluate v2.0 approach and either:
   - Continue with current two-pass design
@@ -86,11 +94,16 @@ The developer should decide on one of the following options:
   - Suggest alternative approach if significantly better
 
 The developer may also:
+
 - Propose improvements to the JSON schema design
 - Suggest schema modifications to better capture document structure
 - Recommend schema changes for better maintainability
+- Propose an alternative solution
 
 ### Architectural Constraints
+
+> **Note**: Detailed technical documentation, including JSON schemas, implementation details, and processing guides, will be made available to selected candidates during the assessment phase.
+
 - Current JSON schemas provided as reference:
   - v1.0: [v1.0/schemas/markdown_output.schema.json](./v1.0/schemas/markdown_output.schema.json)
   - v2.0: [v2.0/schemas/markdown_output.schema.json](./v2.0/schemas/markdown_output.schema.json)
@@ -100,21 +113,31 @@ The developer may also:
 
 ## Project Phases and Timeline
 
-### Week 1-2: v1.0 Completion (20-25 hours)
+### Phase 1: Version Completion (Weeks 1-3)
+
+Choose one of the following approaches:
+
+#### v1.0 Completion
 - Fix remaining test cases
 - Code cleanup and optimization
 - Documentation updates
 
-### Week 3-4: v2.0 Development (40-50 hours)
+#### v2.0 Development
 - Core implementation
 - Test suite development
 - Documentation maintenance
 
-### Week 5-6: Testing & Documentation (15-20 hours)
+#### Alternative Approach
+- Propose and justify new approach
+- Detail technical advantages
+- Estimate development impact
+
+### Phase 2: Finalization (Weeks 3-6)
 - Integration testing
 - Performance optimization
 - Final documentation review
 
 For more information about the project:
+
 - See [PROCESSING_GUIDE.md](./PROCESSING_GUIDE.md) for technical details
 - Review the [v1.0](./v1.0/) and [v2.0](./v2.0/) implementations

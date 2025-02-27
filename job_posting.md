@@ -93,7 +93,7 @@ You can:
    - Relevant experience
    - Initial thoughts on the project
    - Preferred start date
-5. If selected as a candidate, you will be contacted for more detailed discussions and given access to the assessment repo.
+5. If selected as a candidate, you will be contacted for more detailed discussions and given access to the complete technical documentation and assessment repository.
 
 ## Selection Process
 

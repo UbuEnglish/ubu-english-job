@@ -99,3 +99,5 @@ Each version has its own setup and usage instructions:
 
 This is proprietary software. All rights reserved.
 No license is granted for any use without explicit permission.
+
+> **Note**: This is the public job posting repository. Selected candidates will be given access to complete technical documentation and the assessment repository.
