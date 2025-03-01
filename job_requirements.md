@@ -10,7 +10,7 @@
 
 ## Project Overview
 
-Develop and enhance a Python-based markdown processing system that converts markdown documents into structured JSON for LLM training data preparation. The project is well-structured with comprehensive documentation and clear architectural patterns.
+Develop and enhance a Python-based markdown processing system that converts markdown documents into structured JSON for LLM training data preparation. This AI-driven project focuses on creating high-quality, structured data for language model training while maintaining clear architectural patterns and comprehensive documentation.
 
 ## Key Responsibilities
 
@@ -21,28 +21,45 @@ Develop and enhance a Python-based markdown processing system that converts mark
 - Propose an alternative solution
 
 - Implement comprehensive test suite
+- Design and validate AI training data schemas
+- Optimize data structures for LLM consumption
 - Maintain high code quality and documentation
 - Collaborate with team using modern development practices
 
 ## Required Skills
 
 - 3+ years Python development experience
-- 1+ years experience with modern development tools including AI assistants
+- 2+ years experience with AI/ML tools and frameworks
+- Strong understanding of LLM training data requirements
 - Proficiency in:
   - Markdown processing
   - JSON schema validation
   - Test-driven development (pytest)
   - Git version control
-  - Modern coding assistants
+  - Modern AI coding assistants (GitHub Copilot, ChatGPT, etc.)
+  - Data structure optimization for ML
 
 ## Technical Experience
 
 - Demonstrated ability to:
   - Implement complex text processing systems
-  - Design and validate JSON schemas
+  - Design and validate JSON schemas for ML training
   - Write comprehensive test suites
   - Maintain clear documentation
   - Review and optimize code quality
+  - Structure data for AI model consumption
+  - Work with AI-assisted development tools
+
+## AI/ML Experience
+
+- Understanding of LLM training data requirements
+- Experience with data preprocessing for ML
+- Knowledge of AI model input/output formats
+- Familiarity with:
+  - Training data validation techniques
+  - Data quality assessment for ML
+  - Schema design for AI applications
+  - AI development workflows
 
 ## Nice to Have
 
@@ -50,6 +67,8 @@ Develop and enhance a Python-based markdown processing system that converts mark
 - Knowledge of document processing pipelines
 - Background in educational technology
 - Experience with multiple development environments
+- Expertise in AI-driven development practices
+- Understanding of ML data quality metrics
 
 ## Project Environment
 
@@ -74,7 +93,7 @@ The project currently has two implementation approaches:
 1. **Single-Pass (v1.0)**:
    - State machine-based processing
    - Memory efficient
-   - Good for streaming
+   - Processes content line-by-line (streaming input)
    - Currently passes 2/6 test cases
 
 2. **Two-Pass (v2.0)**:
