@@ -12,6 +12,8 @@
 
 Develop and enhance a Python-based markdown processing system that converts markdown documents into structured JSON for LLM training data preparation. This AI-driven project focuses on creating high-quality, structured data for language model training while maintaining clear architectural patterns and comprehensive documentation.
 
+This project is a component of our AI-powered ESL learning platform. Candidates that make it to the assessment phase will be considered for future development projects.
+
 ## Key Responsibilities
 
 - Complete v1.0 implementation
@@ -42,8 +44,8 @@ Develop and enhance a Python-based markdown processing system that converts mark
 ## Technical Experience
 
 - Demonstrated ability to:
-  - Implement complex text processing systems
-  - Design and validate JSON schemas for ML training
+  - Implement text processing systems
+  - Design and validate JSON schemas for ML
   - Write comprehensive test suites
   - Maintain clear documentation
   - Review and optimize code quality
@@ -52,23 +54,16 @@ Develop and enhance a Python-based markdown processing system that converts mark
 
 ## AI/ML Experience
 
-- Understanding of LLM training data requirements
-- Experience with data preprocessing for ML
-- Knowledge of AI model input/output formats
-- Familiarity with:
-  - Training data validation techniques
-  - Data quality assessment for ML
-  - Schema design for AI applications
-  - AI development workflows
+- Experience with AI-assisted development tools and workflows
+- Understanding of data structures for AI/ML applications
+- Familiarity with AI model input requirements
 
 ## Nice to Have
 
-- Experience with LLM training data preparation
-- Knowledge of document processing pipelines
+- Experience with document processing pipelines
 - Background in educational technology
 - Experience with multiple development environments
-- Expertise in AI-driven development practices
-- Understanding of ML data quality metrics
+- Track record of scalable solution design
 
 ## Project Environment
 
@@ -93,7 +88,7 @@ The project currently has two implementation approaches:
 1. **Single-Pass (v1.0)**:
    - State machine-based processing
    - Memory efficient
-   - Processes content line-by-line (streaming input)
+   - Well-suited for streaming input line by line
    - Currently passes 2/6 test cases
 
 2. **Two-Pass (v2.0)**:
@@ -114,10 +109,8 @@ The developer should decide on one of the following options:
 
 The developer may also:
 
-- Propose improvements to the JSON schema design
-- Suggest schema modifications to better capture document structure
-- Recommend schema changes for better maintainability
-- Propose an alternative solution
+- Propose improvements to the JSON schema design to better capture document structure
+- Optimize data structure for AI model consumption
 
 ### Architectural Constraints
 
