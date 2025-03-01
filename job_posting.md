@@ -1,31 +1,46 @@
 # Senior Python Developer - Document Processing Pipeline
 
-## Project Overview
+## Strategic Context
 
-We're seeking a skilled Python developer to enhance our markdown processing system for LLM training data preparation. This is a well-defined, short-term project with clear deliverables and existing architecture.
+We're developing an innovative ESL learning platform powered by AI, starting with a crucial foundation: a sophisticated markdown processing system for LLM training data preparation. This technical assessment project represents more than just a coding task—it's an opportunity to demonstrate strategic thinking and potentially establish a long-term partnership in educational technology.
 
-*Note: This is a focused, short-term project ideal for experienced developers who enjoy well-structured technical challenges.*
+*Note: While this is a focused 4-6 week project, we're particularly interested in agencies and developers who can contribute to our broader vision of AI-enhanced language learning.*
 
-**Key requirement**: Must be proficient with modern AI coding assistants to maximize development efficiency.
+**Key Aspects**:
+- Demonstrate innovative approaches to AI/ML integration
+- Showcase architectural decision-making
+- Balance technical excellence with strategic thinking
 
 **Quick Facts**:
-
-- 🕒 Duration: 4-6 weeks
+- 🕒 Duration: 4-6 week assessment
 - 📍 Remote: Yes
-- 🔧 Type: Contract
+- 🔧 Type: Contract with potential for long-term collaboration
 - 🤖 Development: AI-assisted workflow
+- 🎯 Goal: Technical excellence and strategic partnership
 
-## The Challenge
+## The Opportunity
 
-Transform our markdown processing system from a solid foundation to a production-ready pipeline. You'll work on:
+This project serves two purposes:
+1. Transform our markdown processing system into a production-ready pipeline
+2. Demonstrate your team's capability to contribute to our larger ESL platform vision
 
+You'll work on:
 - Completing v1.0 implementation (currently passes 2/6 test cases)
 - Developing v2.0 with enhanced validation and features
 - Creating comprehensive test coverage
 - Maintaining clear documentation
 - Using AI coding assistants to accelerate development
+- Proposing strategic improvements aligned with our platform goals
 
-## Required Skills
+## Ideal Profile
+
+We're particularly interested in:
+- Development agencies with broad expertise
+- Teams with educational technology experience
+- Organizations that understand AI/LLM integration
+- Partners who can align development with strategic goals
+
+### Required Skills
 
 - 3+ years Python development
 - **Proven experience with AI coding assistants** (GitHub Copilot, Codeium, etc.)
@@ -34,14 +49,21 @@ Transform our markdown processing system from a solid foundation to a production
 - Test-driven development (pytest)
 - Git version control proficiency
 
+### Strategic Capabilities
+
+- Understanding of LLM training data requirements
+- Experience with educational technology
+- Ability to propose and justify architectural decisions
+- Track record of scalable solution design
+
 ## Development Approach
 
 We prioritize:
-
 - Efficient development using AI assistants
-- Cost-effective solution implementation
+- Strategic thinking in technical decisions
 - High code quality and maintainability
 - Clear documentation and testing
+- Forward-thinking architecture
 
 ## Project Structure
 
@@ -87,20 +109,21 @@ You can:
 
 1. Review the project repository: <https://github.com/ubuenglish/ubu-english-job>
 2. Send your GitHub username to: <ubuenglish@gmail.com>
-3. Subject line: "Python Developer Application"
+3. Subject line: "Python Developer/Agency Application"
 4. Include:
-   - Brief intro
-   - Relevant experience
-   - Initial thoughts on the project
+   - Brief intro and team overview
+   - Relevant experience, especially in EdTech and AI
+   - Initial thoughts on both technical and strategic aspects
+   - Approach to AI integration in development
    - Preferred start date
-5. If selected as a candidate, you will be contacted for more detailed discussions and given access to the complete technical documentation and assessment repository.
+5. If selected, you'll receive access to detailed technical documentation and the assessment repository.
 
 ## Selection Process
 
 1. Initial application review
 2. Access to technical documentation
-3. Technical discussion
-4. Final selection
+3. Technical assessment phase
+4. Strategic discussion and partnership exploration
 
 ## Questions?
 

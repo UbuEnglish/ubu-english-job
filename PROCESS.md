@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines the complete process for managing technical assessments, from initial contact to final evaluation.
+This document outlines the complete process for getting the job award, from initial contact to final evaluation.
 
 ## Pre-Development Phase
 
